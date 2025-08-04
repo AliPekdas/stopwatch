@@ -1,1 +1,1 @@
-# stopwatch app with React Native
+# Stopwatch App with React Native
